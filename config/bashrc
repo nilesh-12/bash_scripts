@@ -1,0 +1,5 @@
+
+# set ssh identity automatically
+# this is mainly for my github
+./ssh/ssh_add_identity_nilesh.sh
+
